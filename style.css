@@ -1,0 +1,45 @@
+.row1 {
+    display: flex;
+}
+
+.col {
+    flex: 1;
+    background-color: greenyellow;
+    padding: 20px;
+    margin: 10px;
+}
+
+.row2 {
+    display: flex;
+}
+
+.col2 {
+    flex: 1;
+    background-color: goldenrod;
+    padding: 20px;
+    margin: 30px;
+}
+.col3{
+    flex: 2;
+    background-color: goldenrod;
+    padding: 20px;
+    margin: 30px;
+}
+
+.row3 {
+    display: flex
+}
+
+.col4 {
+    flex: 2;
+    background-color:indigo;
+    padding: 20px;
+    margin: 30px;
+}
+
+.col5 {
+    flex: 3;
+    background-color: indigo;
+    padding: 20px;
+    margin: 30px;
+}
